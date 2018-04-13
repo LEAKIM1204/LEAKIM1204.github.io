@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: ""
 url: "https://sylhare.github.io"
 title: Edison's prank # site's title
 description: "Diary of LEA who wants to become Edison of Korea." # used by search engines
