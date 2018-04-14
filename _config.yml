@@ -14,7 +14,7 @@ theme_settings:
   gravatar: # Email MD5 hash
   #disqus_shortname: 
 
-  # Header and footer text
+  # Header and footer text!
   header_text: > #two or three lines to describe your site
      <p>만들고 싶은게 너무 많은 발명왕을 꿈꾸는 개발자 <br> Blog to help each other</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
